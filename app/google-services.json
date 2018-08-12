@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419401265018",
+    "firebase_url": "https://mapapp-81c8e.firebaseio.com",
+    "project_id": "mapapp-81c8e",
+    "storage_bucket": "mapapp-81c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419401265018:android:31fbced49083cab0",
+        "android_client_info": {
+          "package_name": "teju.application.mapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419401265018-16muo3ab7nubjvko36r31alueggtijp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teju.application.mapapp",
+            "certificate_hash": "c7bdccfe465611c3f3d71ba7b1f4ad8af6cefb25"
+          }
+        },
+        {
+          "client_id": "419401265018-7s642enambpe3ucr6hm0a5ng26l2ku33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdaUAWpYH8tghnubEBJ48ibHLS89XvZs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419401265018-7s642enambpe3ucr6hm0a5ng26l2ku33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

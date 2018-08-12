@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD2jrdU9W8Kh8cESPKXvLVzPri0xyjPXbY</string>
+    <string name="login">Login</string>
+    <string name="superadmincreate">For creating any type of users - Create</string>
+    <string name="superadmintrack">For tracking the users - Track</string>
+    <string name="superadminassign">For assigning the users to admin - Assign</string>
+    <string name="superadminprofile">For opening your profile</string>
+    <string-array name="str2">
+        <item>Users</item>
+        <item>SuperAdmin</item>
+        <item>NormalAdmin</item>
+    </string-array>
+
+
+</resources>
